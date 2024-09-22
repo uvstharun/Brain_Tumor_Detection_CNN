@@ -52,11 +52,6 @@ The CNN model successfully classified brain MRI scans with notable accuracy. Bel
 - **High accuracy** on clean MRI images with clear tumor features.
 - **Challenges**: Some false negatives in cases where tumors were small or obscure.
 
-## 🔧 Installation and Setup
-
-
-```
-
 ## 📊 Visualization and Insights
 
 - **Accuracy over epochs**: The training accuracy consistently improved over the epochs, with minimal overfitting observed.
